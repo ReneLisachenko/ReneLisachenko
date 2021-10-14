@@ -7,6 +7,7 @@ All of my projects are available at [https://github.com/ReneLisachenko?tab=repos
 
 My email: **renelisachenko@gmail.com**
 
+Resume: https://docs.google.com/document/d/1a4pMIspSnHQ6Xky_n8RqsaCIw4x2Eo-zra5GkzZlPDg/edit?usp=sharing
 
 Know about my experiences [https://www.linkedin.com/resume-builder/insights/urn:li:digitalmediaAsset:C4E25AQHghhV3PPN86g/?resumeAmbryUrn=%2FAAYUAQC9AAkAAQAAAAAAACWjnC6moZl3R7GcqmYiQ8NBhg.pdf&resumeName=Resumes.pdf&resumeNew=true](https://www.linkedin.com/resume-builder/insights/urn:li:digitalmediaAsset:C4E25AQHghhV3PPN86g/?resumeAmbryUrn=%2FAAYUAQC9AAkAAQAAAAAAACWjnC6moZl3R7GcqmYiQ8NBhg.pdf&resumeName=Resumes.pdf&resumeNew=true)
 
