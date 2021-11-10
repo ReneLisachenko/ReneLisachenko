@@ -4,13 +4,17 @@
 Multilingual data analyst, who comes from a management background and has a long love of learning natural languages (Russian, Ukrainian, Hebrew, English)  and lived in different countries, which allows me to quickly adapt to notice some cultural peculiarities. Through my past experiences I can  understand their weak points of business and check them as a data analyst and help them solve their problems.
 I am constantly engaged in sports (Tennis, surfing, street training) and self-development in different areas (music, design).
 
-All of my projects are available at [https://github.com/ReneLisachenko?tab=repositories](https://github.com/ReneLisachenko?tab=repositories)
+##Education
+Practicum by Yandex | Data analyst  Program. Certificate:
+https://github.com/ReneLisachenko/ReneLisachenko/blob/53475f5feba06590df72e70a003f68b3b609cb46/Rene_Lisachenko.pdf
 
-My email: **renelisachenko@gmail.com**
+##All of my projects are available at [https://github.com/ReneLisachenko?tab=repositories](https://github.com/ReneLisachenko?tab=repositories)
 
-Resume: https://docs.google.com/document/d/1a4pMIspSnHQ6Xky_n8RqsaCIw4x2Eo-zra5GkzZlPDg/edit?usp=sharing
+##My email: **renelisachenko@gmail.com**
 
-Know about my experiences [https://www.linkedin.com/resume-builder/insights/urn:li:digitalmediaAsset:C4E25AQHghhV3PPN86g/?resumeAmbryUrn=%2FAAYUAQC9AAkAAQAAAAAAACWjnC6moZl3R7GcqmYiQ8NBhg.pdf&resumeName=Resumes.pdf&resumeNew=true](https://www.linkedin.com/resume-builder/insights/urn:li:digitalmediaAsset:C4E25AQHghhV3PPN86g/?resumeAmbryUrn=%2FAAYUAQC9AAkAAQAAAAAAACWjnC6moZl3R7GcqmYiQ8NBhg.pdf&resumeName=Resumes.pdf&resumeNew=true)
+##Resume: https://docs.google.com/document/d/1a4pMIspSnHQ6Xky_n8RqsaCIw4x2Eo-zra5GkzZlPDg/edit?usp=sharing
+
+##Know about my experiences [https://www.linkedin.com/resume-builder/insights/urn:li:digitalmediaAsset:C4E25AQHghhV3PPN86g/?resumeAmbryUrn=%2FAAYUAQC9AAkAAQAAAAAAACWjnC6moZl3R7GcqmYiQ8NBhg.pdf&resumeName=Resumes.pdf&resumeNew=true](https://www.linkedin.com/resume-builder/insights/urn:li:digitalmediaAsset:C4E25AQHghhV3PPN86g/?resumeAmbryUrn=%2FAAYUAQC9AAkAAQAAAAAAACWjnC6moZl3R7GcqmYiQ8NBhg.pdf&resumeName=Resumes.pdf&resumeNew=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
