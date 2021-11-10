@@ -8,13 +8,17 @@ I am constantly engaged in sports (Tennis, surfing, street training) and self-de
 Practicum by Yandex | Data analyst  Program. Certificate:
 https://github.com/ReneLisachenko/ReneLisachenko/blob/53475f5feba06590df72e70a003f68b3b609cb46/Rene_Lisachenko.pdf
 
-## All of my projects are available at [https://github.com/ReneLisachenko?tab=repositories](https://github.com/ReneLisachenko?tab=repositories)
+## All of my projects are available at 
+[https://github.com/ReneLisachenko?tab=repositories](https://github.com/ReneLisachenko?tab=repositories)
 
-## My email: **renelisachenko@gmail.com**
+## My email: 
+**renelisachenko@gmail.com**
 
-## Resume: https://docs.google.com/document/d/1a4pMIspSnHQ6Xky_n8RqsaCIw4x2Eo-zra5GkzZlPDg/edit?usp=sharing
+## Resume: 
+https://docs.google.com/document/d/1a4pMIspSnHQ6Xky_n8RqsaCIw4x2Eo-zra5GkzZlPDg/edit?usp=sharing
 
-## Know about my experiences [https://www.linkedin.com/resume-builder/insights/urn:li:digitalmediaAsset:C4E25AQHghhV3PPN86g/?resumeAmbryUrn=%2FAAYUAQC9AAkAAQAAAAAAACWjnC6moZl3R7GcqmYiQ8NBhg.pdf&resumeName=Resumes.pdf&resumeNew=true](https://www.linkedin.com/resume-builder/insights/urn:li:digitalmediaAsset:C4E25AQHghhV3PPN86g/?resumeAmbryUrn=%2FAAYUAQC9AAkAAQAAAAAAACWjnC6moZl3R7GcqmYiQ8NBhg.pdf&resumeName=Resumes.pdf&resumeNew=true)
+## Know about my experiences 
+[https://www.linkedin.com/resume-builder/insights/urn:li:digitalmediaAsset:C4E25AQHghhV3PPN86g/?resumeAmbryUrn=%2FAAYUAQC9AAkAAQAAAAAAACWjnC6moZl3R7GcqmYiQ8NBhg.pdf&resumeName=Resumes.pdf&resumeNew=true](https://www.linkedin.com/resume-builder/insights/urn:li:digitalmediaAsset:C4E25AQHghhV3PPN86g/?resumeAmbryUrn=%2FAAYUAQC9AAkAAQAAAAAAACWjnC6moZl3R7GcqmYiQ8NBhg.pdf&resumeName=Resumes.pdf&resumeNew=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
