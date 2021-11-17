@@ -1,7 +1,8 @@
 <h1 align="center">Hey , I'm Rene Lisachenko</h1>
 <h3 align="center">A Data Analyst from Tel Aviv, Israel.</h3>
 
-Multilingual data analyst, who comes from a management background and has a long love of learning natural languages (Russian, Ukrainian, Hebrew, English)  and lived in different countries, which allows me to quickly adapt to notice some cultural peculiarities. Through my past experiences I can  understand their weak points of business and check them as a data analyst and help them solve their problems.
+Multilingual data analyst, who comes from a management background and lived in different countries, which allows me to quickly adapt to notice some cultural peculiarities. 
+Through my past experiences I can  understand a company's weak points of business and check them as a data analyst and help them solve their problems.
 I am constantly engaged in sports (Tennis, surfing, street training) and self-development in different areas (music, design).
 
 ## Education
