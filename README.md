@@ -1,13 +1,15 @@
 <h1 align="center">Hey , I'm Rene Lisachenko</h1>
 <h3 align="center">A Data Analyst from Tel Aviv, Israel.</h3>
 
-Multilingual data analyst, who comes from a management background and lived in different countries, which allows me to quickly adapt to notice some cultural peculiarities. 
-
-Through my past experiences I can  understand a company's weak points of business and check them as a data analyst and help them solve their problems.
+Multilingual junior data analyst, with strong problem solving skills, management background and have experience of life in different countries, which allows to quickly adapt to new challenges and find unique solutions to problems.
+Like data analyst could understand a company's target metrics and possibilities to increase company revenues.
+ 
+A year of experience in Data Analyst position could provide aspiration for further work in a company, improve my professional skills, and will be a starting point of professional and personal development, including career advancement.
 
 I am constantly engaged in sports (Tennis, surfing, street training) and self-development in different areas (music, design).
 
 ## Education
+Open University of Israel | Computer Science Bachelor's degree
 Practicum by Yandex | Data analyst  Program. Certificate:
 https://github.com/ReneLisachenko/ReneLisachenko/blob/53475f5feba06590df72e70a003f68b3b609cb46/Rene_Lisachenko.pdf
 
